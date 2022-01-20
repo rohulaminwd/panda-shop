@@ -8,3 +8,7 @@
 body{
     scroll-behavior: smooth;
 }
+
+.rounded-20{
+    border-radius: 16px !important;
+}
